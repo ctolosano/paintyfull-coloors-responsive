@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&display=swap");
+
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Manrope", serif;
+}
+
+.Computer-Image {
+	margin-top: auto;
+}
+
+h1 {
+	color: #369eff;
+	font-weight: 700;
+	display: flex;
+	justify-content: center;
+}
+
+.Text-Generator {
+	font-weight: 900;
+}
+.Color-Palette {
+	height: 100vh;
+	margin: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Computer {
+	display: flex;
+	justify-content: center;
+}
+
+.Orange-Sun {
+	background-color: #fbdf93;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+
+.Green-Mint {
+	background-color: #d3fb93;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+
+.Purple-Sober {
+	background-color: #e193fb;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+
+.Cyan-Dive {
+	background-color: #93f0fb;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+
+.Yellow-Sand {
+	background-color: #f7fb93;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+
+@media screen and (min-width: 320px){
+        
+    
+}
